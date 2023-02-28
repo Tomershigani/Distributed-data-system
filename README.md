@@ -1,11 +1,11 @@
 # Distributed-data-system
 In this project, I built a distributed database for movie theaters. The project included loading and preprocessing data, 
-analyzing and understanding the data to draw insights, designing a distributed database, and implementing the design using Spark.
+analyzing and understanding the data to draw insights, designing a distributed database, and implementing the design using Spark and SQL.
 
 In the first part, I loaded and preprocessed the data and applied transformations using Spark. This served as
 a preface to the analysis and implementation parts.
 
-In the second part, I analyzed the dataset and derived insights related to user behavior and queries conducted on the
+In the second part, I analyzed the dataset using SQL and derived insights related to user behavior and queries conducted on the
 cinema website. I also used visualizations to support my analysis.
 
 In the third part, I designed a distributed database based on the insights obtained from the analysis. I then implemented the
